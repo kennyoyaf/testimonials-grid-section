@@ -93,6 +93,7 @@ body {
 .testimonials .next {
   font-size: 0.8rem;
   color: rgb(174, 173, 173);
+  line-height: 20px;
 }
 
 .testimonials .new #in {
